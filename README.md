@@ -1,12 +1,46 @@
-# React + Vite
+# 🚀 Projeto de React - Componentes e Renderização Condicional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎯 Objetivo
 
-Currently, two official plugins are available:
+Este projeto é uma **introdução prática ao React** com foco em **componentes simples** e **renderização condicional**. Vamos construir uma série de componentes React que demonstram como passar **props**, usar **condições** com `if`, `else` e **operadores ternários**, além de aprender a renderizar conteúdos dinamicamente com base em condições específicas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📝 Descrição
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📂 Estrutura do Projeto
+
+O projeto é composto por **vários componentes** que implementam diferentes formas de **renderização condicional**. Cada tarefa tem como objetivo ensinar um conceito específico do React e como manipulá-lo em um ambiente de desenvolvimento.
+
+- **Componente Simples**: Criação de um componente básico com um texto simples.
+- **Props Simples**: Aprender a passar e utilizar props em componentes.
+- **Renderização Condicional**: Exploração de condições em React utilizando `if`, `else`, e operadores ternários.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React** 💻
+- **JSX** 🔄
+- **Props** 💡
+- **Renderização Condicional** 🔑
+
+---
+
+## 🚀 Funcionalidades
+
+1. **Componente Simples**: Criação de um componente que exibe um texto fixo na tela.
+2. **Passando Props**: Exibição dinâmica de uma saudação baseada no valor de uma prop.
+3. **Renderização Condicional com `if`**: Exibição condicional de um conteúdo com base em uma prop booleana.
+4. **Renderização com `if-else`**: Demonstração de como renderizar conteúdos diferentes dependendo do valor de uma prop numérica.
+5. **Operador Ternário**: Utilização do operador ternário para renderizar conteúdos de forma compacta.
+6. **Múltiplas Condições**: Como tratar múltiplas condições para renderizar diferentes resultados.
+7. **Botões Condicionais**: Renderização de botões de acordo com o estado de uma prop booleana.
+
+---
+
+## 📂 Como Rodar o Projeto
+
+1. **Clone o repositório**:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
