@@ -43,4 +43,4 @@ O projeto é composto por **vários componentes** que implementam diferentes for
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <[URL_DO_REPOSITORIO](https://github.com/MarcosBarradas/props-react/edit/main/README.md)>
